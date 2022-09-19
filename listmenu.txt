@@ -1,0 +1,35 @@
+revisi
+Note :
+Apabila status petani tidak aktif petani tersebut tidak 
+bisa login
+
+untuk mengambil longtitude dan lat diambil dari
+mapbox
+
+Unique :
+nama jenis komoditas (jenis_komoditas)
+nama komoditas (komoditas)	
+desa
+kecamatan
+nama kelompok kelompok tani
+
+user :
+pendaftaran petani
+pendataran penyuluh
+----------------
+master :
+komoditas v
+jenis komoditas v
+kelompok petani v
+data pengepul
+desa v
+kecamatan v
+-----------------
+Pengelolaan tanam
+-----------------
+Pengelolaan Panen
+-----------------
+Pengelolaan Pengepul
+-----------------
+Berita
+-----------------
